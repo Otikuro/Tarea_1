@@ -6,6 +6,11 @@ text-align:center;
 background-color:purple;
 color:white;
 }
+
+h2 {
+    color: red
+}
+
 body
 {
 background-image:url("fondo.jpg");
